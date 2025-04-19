@@ -25,6 +25,9 @@ github_guide.txt
 *.tif
 *.TIF
 
+# Data
+labs/lab2/oregon_data.gpkg
+
 # Answers
 labs/lab2/02_wildfires_in_lane_county_answers.ipynb
 
